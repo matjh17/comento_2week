@@ -1,0 +1,5 @@
+train: cifar_dogs_cats/train
+val: cifar_dogs_cats/valid
+
+nc: 2
+names: ['cat', 'dog']

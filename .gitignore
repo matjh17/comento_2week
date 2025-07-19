@@ -1,0 +1,9 @@
+# YOLO 결과 자동 생기는 폴더들
+runs/
+__pycache__/
+*.cache
+*.log
+*.jpg
+*.png
+.ipynb_checkpoints/
+*.txt
